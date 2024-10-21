@@ -1,4 +1,7 @@
-﻿namespace BanMayTinh.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.Runtime.InteropServices;
+
+namespace BanMayTinh.Models
 {
 	public class OrderDetails
 	{
@@ -11,5 +14,7 @@
 		public decimal Price { get; set; }
 		public int Quantity { get; set; }
 
+		//[ForeignKey("ProductId")]
+		public ProductModel Product { get; set; }
 	}
 }

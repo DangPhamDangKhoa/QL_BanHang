@@ -21,5 +21,5 @@ namespace BanMayTinh.Repository
 		public DbSet<OrderDetails> OrderDetails { get; set; }
 
 
-	}
+    }
 }

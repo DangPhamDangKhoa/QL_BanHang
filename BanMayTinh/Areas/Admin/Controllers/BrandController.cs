@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Authorization;
 namespace BanMayTinh.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Route("Admin/Brand")]
     [Authorize]
     public class BrandController : Controller
     {
@@ -18,17 +19,19 @@ namespace BanMayTinh.Areas.Admin.Controllers
             _dataContext = context;
 
         }
+        [Route("Index")]
         public async Task<IActionResult> Index()
         {
             return View(await _dataContext.Brands.OrderByDescending(p => p.Id).ToListAsync());
         }
 
-
+        [Route("Create")]
         public IActionResult Create()
         {
             return View();
         }
 
+        [Route("Create")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(BrandModel brand)
@@ -68,7 +71,7 @@ namespace BanMayTinh.Areas.Admin.Controllers
 
         }
 
-
+        [Route("Delete")]
         public async Task<IActionResult> Delete(int Id)
         {
             BrandModel brand = await _dataContext.Brands.FindAsync(Id);
@@ -80,14 +83,14 @@ namespace BanMayTinh.Areas.Admin.Controllers
         }
 
 
-
+        [Route("Edit")]
         public async Task<IActionResult> Edit(int Id)
         {
             BrandModel brand = await _dataContext.Brands.FindAsync(Id);
             return View(brand);
         }
 
-
+        [Route("Edit")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(BrandModel brand)
