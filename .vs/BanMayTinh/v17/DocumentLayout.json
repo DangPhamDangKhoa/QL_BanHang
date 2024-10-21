@@ -1,0 +1,584 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|c:\\users\\asus\\desktop\\ltw\\banmaytinh\\banmaytinh\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|c:\\users\\asus\\desktop\\ltw\\banmaytinh\\banmaytinh\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\repository\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\repository\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\repository\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\LTW\\Eshopper\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\migrations\\20241020201903_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\migrations\\20241020201903_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\banmaytinh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\banmaytinh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\repository\\validation_xacnhan\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\repository\\validation_xacnhan\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\views\\shared\\_notificationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\views\\shared\\_notificationpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\migrations\\20241020163252_firstmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\migrations\\20241020163252_firstmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\repository\\components\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\repository\\components\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\repository\\components\\brandsviewcomponent .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\repository\\components\\brandsviewcomponent .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\migrations\\20241020163252_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\migrations\\20241020163252_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_U6817CF_SQLEXPRESS/DB_MayTinh/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\banmaytinh\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E92F018-676C-48E0-A279-8D1215064CDD}|BanMayTinh\\BanMayTinh.csproj|solutionrelative:banmaytinh\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "BanMayTinh\\Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:55:52.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\OrderModel.cs",
+              "RelativeToolTip": "BanMayTinh\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:55:20.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\ProductModel.cs",
+              "RelativeToolTip": "BanMayTinh\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:11:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\SeedData.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Repository\\SeedData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\SeedData.cs",
+              "RelativeToolTip": "BanMayTinh\\Repository\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:36:57.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Repository\\DataContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\DataContext.cs",
+              "RelativeToolTip": "BanMayTinh\\Repository\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:24:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Repository\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\SessionExtensions.cs",
+              "RelativeToolTip": "BanMayTinh\\Repository\\SessionExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:39:59.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "BanMayTinh\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:54:52.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BanMayTinh\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:58:19.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BanMayTinh",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\BanMayTinh.csproj",
+              "RelativeDocumentMoniker": "BanMayTinh\\BanMayTinh.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\BanMayTinh.csproj",
+              "RelativeToolTip": "BanMayTinh\\BanMayTinh.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T16:21:25.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:14:10.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\Eshopper\\login.html",
+              "RelativeDocumentMoniker": "..\\Eshopper\\login.html",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\Eshopper\\login.html",
+              "RelativeToolTip": "..\\Eshopper\\login.html",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-21T02:03:38.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Models\\CategoryModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "BanMayTinh\\Models\\CategoryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:11:39.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:11:57.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:15:01.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:01:58.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:11:28.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241020201903_IdentityMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Migrations\\20241020201903_IdentityMigration.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Migrations\\20241020201903_IdentityMigration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Migrations\\20241020201903_IdentityMigration.cs",
+              "RelativeToolTip": "BanMayTinh\\Migrations\\20241020201903_IdentityMigration.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:19:05.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Program.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Program.cs",
+              "RelativeToolTip": "BanMayTinh\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAEAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:31:11.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\AppUserModel.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Models\\AppUserModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\AppUserModel.cs",
+              "RelativeToolTip": "BanMayTinh\\Models\\AppUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:15:25.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:14:03.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:12:28.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileExtensionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\Validation_XacNhan\\FileExtensionAttribute.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Repository\\Validation_XacNhan\\FileExtensionAttribute.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\Validation_XacNhan\\FileExtensionAttribute.cs",
+              "RelativeToolTip": "BanMayTinh\\Repository\\Validation_XacNhan\\FileExtensionAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:23:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:15:23.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_NotificationPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Shared\\_NotificationPartial.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Views\\Shared\\_NotificationPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Shared\\_NotificationPartial.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Views\\Shared\\_NotificationPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T18:55:46.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\CartItemModel.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Models\\CartItemModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\CartItemModel.cs",
+              "RelativeToolTip": "BanMayTinh\\Models\\CartItemModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:24:20.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241020163252_FirstMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Migrations\\20241020163252_FirstMigration.Designer.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Migrations\\20241020163252_FirstMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Migrations\\20241020163252_FirstMigration.Designer.cs",
+              "RelativeToolTip": "BanMayTinh\\Migrations\\20241020163252_FirstMigration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:11:07.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoriesViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\Components\\CategoriesViewComponent.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Repository\\Components\\CategoriesViewComponent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\Components\\CategoriesViewComponent.cs",
+              "RelativeToolTip": "BanMayTinh\\Repository\\Components\\CategoriesViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:47:56.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BrandsViewComponent .cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\Components\\BrandsViewComponent .cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Repository\\Components\\BrandsViewComponent .cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Repository\\Components\\BrandsViewComponent .cs",
+              "RelativeToolTip": "BanMayTinh\\Repository\\Components\\BrandsViewComponent .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:59:14.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BanMayTinh\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:09:48.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BanMayTinh\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:02:00.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BanMayTinh\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:09:27.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241020163252_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Migrations\\20241020163252_FirstMigration.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Migrations\\20241020163252_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Migrations\\20241020163252_FirstMigration.cs",
+              "RelativeToolTip": "BanMayTinh\\Migrations\\20241020163252_FirstMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:32:52.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_U6817CF_SQLEXPRESS/DB_MayTinh/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-20T17:07:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_SidebarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeDocumentMoniker": "BanMayTinh\\Views\\Shared\\_SidebarPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Views\\Shared\\_SidebarPartial.cshtml",
+              "RelativeToolTip": "BanMayTinh\\Views\\Shared\\_SidebarPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T16:07:35.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "BanMayTinh\\Models\\BrandModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\LTW\\BanMayTinh\\BanMayTinh\\Models\\BrandModel.cs",
+              "RelativeToolTip": "BanMayTinh\\Models\\BrandModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:11:03.653Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
