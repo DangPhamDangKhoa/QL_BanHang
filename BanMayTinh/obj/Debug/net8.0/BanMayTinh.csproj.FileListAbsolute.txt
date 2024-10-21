@@ -142,3 +142,4 @@ C:\Users\ASUS\Desktop\LTW\BanMayTinh\BanMayTinh\bin\Debug\net8.0\Microsoft.AspNe
 C:\Users\ASUS\Desktop\LTW\BanMayTinh\BanMayTinh\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\ASUS\Desktop\LTW\BanMayTinh\BanMayTinh\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\ASUS\Desktop\LTW\BanMayTinh\BanMayTinh\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\LTW\BanMayTinh\BanMayTinh\obj\Debug\net8.0\BanMayTinh.sourcelink.json
