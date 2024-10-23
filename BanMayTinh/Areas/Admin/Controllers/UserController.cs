@@ -1,9 +1,15 @@
 ﻿using BanMayTinh.Models;
 using BanMayTinh.Repository;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json.Linq;
+using System.Diagnostics.Metrics;
+using System.Numerics;
+using System.Runtime.InteropServices;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace BanMayTinh.Areas.Admin.Controllers
 {
@@ -13,12 +19,14 @@ namespace BanMayTinh.Areas.Admin.Controllers
     {
 		private readonly UserManager<AppUserModel> _userManager;
 		private readonly RoleManager<IdentityRole> _roleManager;
-		
+        private readonly DataContext _dataContext;
 
-        public UserController(UserManager<AppUserModel> userManager, RoleManager<IdentityRole> roleManager)
+
+        public UserController(DataContext dataContext,UserManager<AppUserModel> userManager, RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _roleManager = roleManager;
+            _dataContext = dataContext;
 
 
         }
@@ -26,7 +34,13 @@ namespace BanMayTinh.Areas.Admin.Controllers
         [Route("Index")]
         public async Task <IActionResult> Index()
         {
-            return View(await _userManager.Users.OrderByDescending(p => p.Id).ToListAsync());
+            var userWithRoles = await (from u in _dataContext.Users
+                                       join ur in _dataContext.UserRoles on u.Id equals ur.UserId
+                                       join r in _dataContext.Roles on ur.RoleId equals r.Id
+                                       select new { User = u, RoleName = r.Name }).ToListAsync();
+            return View(userWithRoles);
+
+
         }
 
 		[HttpGet]
@@ -37,5 +51,155 @@ namespace BanMayTinh.Areas.Admin.Controllers
             ViewBag.Roles = new SelectList(roles,"Id","Name");
 			return View(new AppUserModel());
 		}
-	}
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        [Route("Create")]
+        public async Task<IActionResult> Create(AppUserModel user)
+        {
+            if (ModelState.IsValid) 
+            {
+                var createUserResult = await _userManager.CreateAsync(user,user.PasswordHash);
+                if(createUserResult.Succeeded)
+                {
+                    var createUser = await _userManager.FindByEmailAsync(user.Email); // tim user dua vao Email
+                    var userId = createUser.Id; // lay User Id
+                    var role =_roleManager.FindByIdAsync(user.RoleId); // lay RoleId
+
+                    // gan 
+                    var addToRoleResult = await _userManager.AddToRoleAsync(createUser, role.Result.Name);
+                    if(!addToRoleResult.Succeeded)
+                    {
+                        AddIdentityErrors(createUserResult);
+                    }
+
+                    return RedirectToAction("Index","User");
+                }
+                else 
+                {
+                    AddIdentityErrors(createUserResult);
+                    return View(user);
+
+                }
+              
+            }
+            else
+            {
+                TempData["error"] = "Model có vài thứ bị lỗi cần coi lại";
+                List<string> errors = new List<string>();
+                foreach (var value in ModelState.Values)
+                {
+                    foreach (var error in value.Errors)
+                    {
+                        errors.Add(error.ErrorMessage);
+                    }
+                }
+                string errorMessage = string.Join("\n", errors);
+                return BadRequest(errorMessage);
+            }
+            var roles = await _roleManager.Roles.ToListAsync();
+            ViewBag.Roles = new SelectList(roles, "Id", "Name");
+            return View(user);
+        }
+
+        private void AddIdentityErrors(IdentityResult identityResult)
+        {
+           foreach(var error in identityResult.Errors)
+            {
+                ModelState.AddModelError(string.Empty, error.Description);
+            }
+        }
+
+        [HttpGet]
+        [Route("Delete")]
+        public async Task<IActionResult> Delete(string Id)
+        {
+            
+            if(string.IsNullOrEmpty(Id))
+            {
+                return NotFound();
+            }
+            var user = await _userManager.FindByIdAsync(Id);
+            if(user == null)
+            {
+                return NotFound();
+            }
+            var deleteResult = await _userManager.DeleteAsync(user);
+            if(!deleteResult.Succeeded)
+            {
+                return NotFound();
+            }
+            TempData["success"] = "The User has been deleted";
+            return RedirectToAction("Index");
+
+        }
+
+        [HttpGet]
+        [Route("Edit")]
+        public async Task<IActionResult> Edit(string Id)
+        {
+            if (string.IsNullOrEmpty(Id))
+            {
+                return NotFound();
+            }
+            var user = await _userManager.FindByIdAsync(Id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+            var roles = await _roleManager.Roles.ToListAsync();
+            ViewBag.Roles = new SelectList(roles, "Id", "Name");
+            return View(user);
+        }
+
+
+        
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        [Route("Edit")]
+        public async Task<IActionResult> Edit(AppUserModel user, string Id)
+        {
+            var existingUser = await _userManager.FindByIdAsync(Id); // lay User dua vao Id
+            if (existingUser == null)
+            {
+                return NotFound();
+            }
+            if (ModelState.IsValid)
+            {
+                existingUser.UserName = user.UserName;
+                existingUser.PhoneNumber = user.PhoneNumber;
+                existingUser.Email = user.Email;
+                existingUser.RoleId = user.RoleId;
+
+                var updateUserResult = await _userManager.UpdateAsync(existingUser);
+                if (updateUserResult.Succeeded) 
+                {
+                    return RedirectToAction("Index", "User");
+                }
+                else 
+                {
+                    AddIdentityErrors(updateUserResult);
+                   return View(existingUser);
+                }
+            }
+            var roles = await _roleManager.Roles.ToListAsync();
+            ViewBag.Roles = new SelectList(roles, "Id", "Name");
+            TempData["error"] = "Model có vài thứ bị lỗi cần coi lại";
+            //List<string> errors = new List<string>();
+            //foreach (var value in ModelState.Values)
+            //{
+            //    foreach (var error in value.Errors)
+            //    {
+            //        errors.Add(error.ErrorMessage);
+            //    }
+            //}
+            //string errorMessage = string.Join("\n", errors);
+            //return BadRequest(errorMessage);
+            var errors =ModelState.Values.SelectMany(v => v.Errors.Select(e=>e.ErrorMessage)).ToList();
+            string errorMessage = string.Join("\n",errors);
+
+            return View(existingUser);
+        }
+    }
 }

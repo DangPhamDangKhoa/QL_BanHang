@@ -61,8 +61,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-app.UseAuthentication();
-app.UseAuthorization();
+app.UseAuthentication(); // dang nhap
+app.UseAuthorization(); // kiemtra quyen
 
 
 app.MapControllerRoute(
